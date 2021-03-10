@@ -1,2 +1,0 @@
-Aplicatie realizata in android studio, utilizand ca baza de date Firebase.
-Proiectul nu este finalizat.
