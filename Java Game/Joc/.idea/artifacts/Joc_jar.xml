@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Joc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Joc_jar</output-path>
+    <root id="archive" name="Joc.jar">
+      <element id="module-output" name="Joc" />
+      <element id="library" level="project" name="res" />
+    </root>
+  </artifact>
+</component>
