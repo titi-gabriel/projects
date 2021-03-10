@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RPR</string>
+
+    <string-array name="sexes">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+
+</resources>
